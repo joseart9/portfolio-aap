@@ -32,7 +32,7 @@ export default function NavbarComponent({ activeHash }: { activeHash: any }) {
                     <Button href="CV Arturo Arguelles 2024.pdf" download as={Link} color="primary" variant="solid" className="text-white font-semibold text-md">
                         Descargar CV
                     </Button>
-                    <a href="https://wa.me/528117858904" target="_blank" rel="noreferrer">
+                    <a href="https://wa.me/528119111384" target="_blank" rel="noreferrer">
                         <FaWhatsapp className="fill-current size-8 text-primary" />
                     </a>
                 </NavbarItem>
